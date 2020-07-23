@@ -1,0 +1,386 @@
+File
+New
+Open
+save
+Save as
+Leave
+&See
+& Day Panel
+Options
+Records
+New
+Modify
+Elimination
+Delete All
+Delete Selected
+Displace
+Previous
+Following
+Departure
+USB port*
+File Options
+File Paths
+Automate Program
+Run when pc start
+User
+Personal information
+Use Manually
+Device
+Calendar
+Programmable Event Routine Generator
+Viewfinder
+Window
+Help
+Configure comments
+Configure idiom
+About Rinter
+About Rinter
+Electronic circuit
+Donate
+& Show all Months
+& Only defined Current
+&Record
+Modification options
+& Modified data
+& Pressing the buttons
+&Hour
+&Type
+&Filter
+& Int Entry
+& Int Exit
+& Entry Text
+& Output Text
+&Monday
+&Tuesday
+&Wednesday
+&Thursday
+&Friday
+& Saturdays
+&Sundays
+& Type of Applied:
+Oppressed options are denied
+Non-oppressed options are denied
+&Apply
+&Leave
+& C: on / off
+&Restore
+Routine Generator
+& Dropdown List
+& Deployable Program
+& Modified Options
+&Hour:
+&Type:
+&Filter:
+& Int: [Entry]
+& Int: [Exit]
+&DAYS
+&Monday
+&Tuesday
+&Wednesday
+&Thursday
+&Friday
+& Saturdays
+&Sundays
+& There is no event element.
+& Currently exist
+& event elements
+& event element
+&[ENTRY]
+&[DEPARTURE]
+&Cancel
+& Create Event:
+& Create Events:
+&Modify
+Do nothing *
+Turn off the computer
+Shutdown and restart the computer
+Override Computer Shutdown
+Equipment to shutdown / restart / abort
+Set the shutdown timeout.
+Maximum shutdown comment, 127 characters
+Force close all apps without warning
+Enter maximum description, 127 characters
+& Without dialogue ...
+& Time =
+switched on.
+Time: scheduled
+Type: Entry or Exit
+Filter: In or Out or Random
+Interval: Entry
+Interval: Exit
+Days: Monday
+Days: Tuesday
+Days: Wednesday
+Days: Thursday
+Days: Friday
+Days: Saturdays
+Days: Sundays
+Comments: Entry
+Comments: Departure
+Auto: Turn off Turn on etc *
+Route History
+& Defined File History
+&Cancel
+&Load
+& Delete Selection
+&Erase everything
+& Use File
+& Un Use File
+&To accept
+You want to use this file with Rinter
+Do you want to delete the used File from Memory?
+Start with Windows Automatically
+& Booting with Windows?
+&Tear
+& Do not start
+&To accept
+When you start or restart Windows Rinter, it will start with Windows
+ There was an error, To Start With Windows S.O
+Automatic Start was removed in Windows S.O
+Electronic circuit
+Schemas
+&To print
+&To accept
+Graphic Status of the Main Window
+State:
+&Cancel
+&Apply
+Restored Window
+Minimized Window
+Maximized Window
+Customize data
+Ringtone Creator Details
+To accept
+Name :
+Second name :
+Last name :
+Second surname :
+Address :
+Second Address:
+Location :
+Country :
+Phone :
+Cellular :
+Email :
+Facebook :
+General comment :
+Cancel
+Clean
+&To accept
+ Do you want to clean all the data on the screen?
+The data was successfully saved in memory
+System Functions
+Operable System Functions
+comments:
+Do nothing *
+Turn off the computer
+Shutdown and restart the computer
+Override Computer Shutdown
+Equipment to shutdown / restart / abort
+Set the shutdown timeout.
+Maximum shutdown comment, 127 characters
+Force close all apps without warning
+Enter maximum description, 127 characters
+& Without dialogue ...
+& Time =
+switched on.
+Cancel
+Apply
+Without dialogue
+Weather:
+Printer by Quantity
+Do you copy:
+-
++
+Cancel
+Send Print Copies
+Current files in the Software Memory
+Are there files in memory that you want to do?
+go
+Hour
+Type
+Seconds
+Commentary
+Leave
+Save and exit
+Cancel
+program title
+Add New Event
+System functions
+Hour :
+Kind :
+Interval:
+Filter :
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturdays
+Sundays
+Commentary:
+comments:
+Cancel
+Color of: Pintagram
+Create
+Modify
+Modify Event.
+Entry
+Departure
+Only Time
+Time and day
+You want to Apply the Event Modifications.
+Customize Language
+Archive
+Value
+Rename
+Language
+Cancel
+Load Language
+Save File
+Apply Language
+Scheduled Schedule Board.
+Entry or Exit Type Board.
+Time board in seconds.
+Comments Board.
+January
+February
+March
+April
+May
+June
+July
+August
+September
+Oct / Nob / Dec
+Go to the current month
+Currently Scheduled Events Viewer
+go
+Hour
+Type
+Seconds
+Commentary
+To print
+Print More
+Event
+Add Comments
+Commentary
+Add
+Load
+Cancel
+Delete Selected
+Delete All
+save
+Do you want to remove this Comment from the List?
+Do you want to delete All Comments?
+weather
+Enter a System Option
+See the rights of this software in the Legal Field.
+see who participated in Rinter
+Version:
+System information is not available at this time
+. :: About Rinter
+Compiled
+software thought and created
+Programming
+Graphic design
+Ide 's
+Structures
+Statistics
+Analysis
+Blackboard Tool
+Dynamic Schedule Generator Tool
+Virtual Months Tool
+Comparison
+Graphic gadgets for API
+File Entry and Exit
+Algorithms
+Translation and Languages ​​by
+Google Translate (c)
+Libraries and I / 0 headers
+Microsoft Corporation (c)
+Dynamism and structured
+.exe
+Version type
+users in general
+Warning this program is not protected by copyright laws or other international treaties. The unauthorized reproduction or distribution of this program or any part of it does not give sibile or criminal responsibilities and will not be prosecuted.
+& Info. of the system...
+&To accept
+Means
+Authors
+Rinter
+Help us with the project
+The future of software depends on you
+with own account ...
+With credit cards
+&To collaborate
+&To accept
+Calendar
+& Graphic Calendar
+& Go to Today's date
+&Leave
+Use Ringtone Manually
+&Switched on
+&Off
+Turned off
+Status: On
+&To accept
+Led that shows the status of the bell
+Running event
+The bell is running ...
+Comments
+Loading...
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturdays
+Sundays
+DAYS
+Just Time.
+Total time:
+Elapsed Time:
+Remaining time:
+Time to Activate:
+Kind :
+&To close
+Digital clock
+System Clock
+date:
+hs
+&To accept
+Departure Port
+You must have knowledge before making any changes here.
+& 5v output
+Pin 1
+Pin 2
+Pin 3
+Pin 4
+Pin 5
+Pin 6
+Pin 7
+Pin 8
+&Cancel
+&Normal
+&To accept
+Do you want to save the changes?
+ Open file
+Rinter
+All the files
+The Minimum Year is 1753
+Do you want to remove all ringers with Scheduled events
+Disposal Options
+You want to remove this ringtone with the Event
+Disposal Options
+to be able to limit select an event
+ v1.0
+ Save File
+All the files
+New
+You did not assign a file name
+Random
+sec.
+D LMMJV S
+ ------------------------------------------
+ ------------------------------------------

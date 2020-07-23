@@ -1,0 +1,386 @@
+Arquivo
+Novo
+Abrir
+Salve ?
+Salvar como
+Sair
+&Vejo
+& Painel do dia
+Opções
+Registros
+Novo
+Modificar
+Eliminação
+Excluir tudo
+Excluir selecionado
+Deslocar
+Anterior
+Segue
+Saída
+Porta USB*
+Opções de arquivo
+Caminhos de arquivo
+Programa Automatizado
+Executar quando o PC iniciar
+Do utilizador
+Dados pessoais
+Use manualmente
+Dispositivo
+Calendário
+Gerador de rotina de eventos programáveis
+Visor
+Janela
+Ajuda
+Configurar comentários
+Configurar idioma
+Sobre o Rinter
+Sobre o Rinter
+Circuito eletronico
+Doar
+& Mostrar todos os meses
+& Somente corrente definida
+&Registro
+Opções de modificação
+& Dados modificados
+& Pressionando os botões
+&Hora
+&Tipo
+&Filtro
+& Entrada Int
+& Saída Int
+& Texto de entrada
+& Texto de saída
+&Segunda-feira
+&Terça-feira
+E quarta-feira
+E quinta-feira
+&Sexta-feira
+& Sábados
+E domingos
+& Tipo de Aplicação:
+Opções oprimidas são negadas
+Opções não oprimidas são negadas
+&Aplique
+&Sair
+& C: ligado / desligado
+&Restaurar
+Gerador de Rotina
+&Lista desdobravel
+Programa Implantável
+Opções modificadas
+&Hora:
+&Tipo:
+&Filtro:
+& Int: [Entrada]
+& Int: [Sair]
+&DIAS
+&Segunda-feira
+&Terça-feira
+E quarta-feira
+E quinta-feira
+&Sexta-feira
+& Sábados
+E domingos
+& Não há elemento de evento.
+& Existem atualmente
+e elementos do evento
+& elemento do evento
+&[ENTRADA]
+&[SAÍDA]
+&Cancelar
+& Criar Evento:
+& Criar eventos:
+&Modificar
+Não fazer nada *
+Desligar o computador
+Desligue e reinicie o computador
+Substituir o desligamento do computador
+Equipamento para desligar / reiniciar / abortar
+Defina o tempo limite do desligamento.
+Comentário de desligamento máximo, 127 caracteres
+Forçar o fechamento de todos os aplicativos sem aviso
+Digite a descrição máxima, 127 caracteres
+& Sem diálogo ...
+& Time =
+ligado.
+Horário: agendado
+Tipo: Entrada ou Saída
+Filtro: Entrada ou Saída ou Aleatório
+Intervalo: Entrada
+Intervalo: Sair
+Dias: segunda-feira
+Dias: Terça-feira
+Dias: quarta-feira
+Dias: quinta-feira
+Dias: sexta-feira
+Dias: Sábados
+Dias: Domingos
+Comentários: Entry
+Comentários: Partida
+Automático: Desativar Ativar etc *
+Histórico de rotas
+E histórico de arquivos definidos
+&Cancelar
+&Carga
+& Excluir seleção
+&Limpar tudo
+& Usar arquivo
+& Não usar arquivo
+&Aceitar
+Você deseja usar este arquivo com o Rinter
+Deseja excluir o arquivo usado da memória?
+Comece com o Windows automaticamente
+& Inicializando com Windows?
+&Lágrima
+& Não comece
+&Aceitar
+Quando você inicia ou reinicia o Windows Rinter, ele inicia com o Windows
+ Ocorreu um erro, Para iniciar com o Windows S.O
+O Início automático foi removido no Windows S.O
+Circuito eletronico
+Esquemas
+&Imprimir
+&Aceitar
+Status gráfico da janela principal
+Estado:
+&Cancelar
+&Aplique
+Janela restaurada
+Janela minimizada
+Janela maximizada
+Personalizar dados
+Detalhes do criador de toque
+Aceitar
+Nome:
+Nome do meio :
+Sobrenome :
+Segundo sobrenome :
+Endereço :
+Segundo endereço:
+Localização:
+País :
+Telefone :
+Celular:
+Correio eletrônico :
+Facebook :
+Comentário geral :
+Cancelar
+Limpar \ limpo
+&Aceitar
+ Deseja limpar todos os dados na tela?
+Os dados foram salvos com sucesso na memória
+Funções do sistema
+Funções do sistema operável
+comentários:
+Não fazer nada *
+Desligar o computador
+Desligue e reinicie o computador
+Substituir o desligamento do computador
+Equipamento para desligar / reiniciar / abortar
+Defina o tempo limite do desligamento.
+Comentário de desligamento máximo, 127 caracteres
+Forçar o fechamento de todos os aplicativos sem aviso
+Digite a descrição máxima, 127 caracteres
+& Sem diálogo ...
+& Time =
+ligado.
+Cancelar
+Aplique
+Sem diálogo
+Clima:
+Impressora por quantidade
+Esta ouvindo:
+-
++
+Cancelar
+Enviar cópias de impressão
+Arquivos atuais na memória do software
+Existem arquivos na memória que você deseja fazer?
+ir
+Hora
+Tipo
+Segundos
+Comentário
+Sair
+Salvar e sair
+Cancelar
+título do programa
+Adicionar novo evento
+Funções do sistema
+Hora:
+Tipo :
+Intervalo:
+Filtro:
+Segunda-feira
+Terça-feira
+Quarta-feira
+Quinta-feira
+Sexta-feira
+Sábados
+Domingos
+Comentário:
+comentários:
+Cancelar
+Cor de: Pintagram
+Crio
+Modificar
+Modificar evento.
+Entrada
+Saída
+Só o tempo
+Hora e dia
+Você deseja aplicar as modificações de eventos.
+Personalizar idioma
+Arquivo
+Valor
+Renomear
+Língua
+Cancelar
+Carregar idioma
+Salvar Arquivo
+Aplicar idioma
+Quadro de agendamento agendado.
+Placa de tipo de entrada ou saída.
+Quadro de tempo em segundos.
+Quadro de Comentários.
+janeiro
+fevereiro
+Março
+abril
+Posso
+Junho
+Julho
+agosto
+setembro
+Out / Nob / Dec
+Ir para o mês atual
+Visualizador de Eventos Agendados Atualmente
+ir
+Hora
+Tipo
+Segundos
+Comentário
+Imprimir
+Imprimir mais
+Evento
+Adicione comentários
+Comentário
+Adicionar
+Carga
+Cancelar
+Excluir selecionado
+Excluir tudo
+Salve ?
+Deseja remover este comentário da lista?
+Deseja excluir todos os comentários?
+clima
+Digite uma opção do sistema
+Veja os direitos deste software no campo Legal.
+ver quem participou do Rinter
+Versão:
+As informações do sistema não estão disponíveis no momento
+. :: Sobre a Rinter
+Compilado
+software pensado e criado
+Programação
+Desenho gráfico
+Ide
+Estruturas
+Estatisticas
+Análise
+Ferramenta Blackboard
+Ferramenta Gerador de agendamento dinâmico
+Ferramenta meses virtuais
+Comparação
+Gadgets gráficos para API
+Entrada e saída de arquivo
+Algoritmos
+Tradução e Idiomas por
+Google Tradutor (c)
+Bibliotecas e cabeçalhos de E / S
+Microsoft Corporation (c)
+Dinamismo e estruturado
+.Exe
+Tipo de versão
+usuários em geral
+Advertindo que este programa não está protegido por leis de direitos autorais ou outros tratados internacionais, a reprodução ou distribuição não autorizada deste programa ou de qualquer parte dele não confere responsabilidades sibis ou criminais e não será processada.
+& Info. do sistema...
+&Aceitar
+Significa
+Autores
+Rinter
+Ajude-nos com o projeto
+O futuro do software depende de você
+com conta própria ...
+Com cartões de crédito
+&Colaborar
+&Aceitar
+Calendário
+& Calendário gráfico
+& Ir para a data de hoje
+&Sair
+Usar toque manualmente
+&Ligado
+&Fora
+Desligado
+Status: Ativado
+&Aceitar
+Led que mostra o status do sino
+Evento em execução
+A campainha está tocando ...
+Comentários
+Carregando...
+Segunda-feira
+Terça-feira
+Quarta-feira
+Quinta-feira
+Sexta-feira
+Sábados
+Domingos
+DIAS
+Apenas tempo.
+Tempo total:
+Tempo decorrido:
+Tempo restante:
+Hora de ativar:
+Tipo :
+&Fechar
+Relógio digital
+Relógio do sistema
+encontro:
+hs
+&Aceitar
+Porto de partida
+Você deve ter conhecimento antes de fazer alterações aqui.
+& Saída 5v
+Pino 1
+Pino 2
+Pino 3
+Pino 4
+Pino 5
+Pino 6
+Pino 7
+Pino 8
+&Cancelar
+&Normal
+&Aceitar
+Deseja salvar as alterações?
+ Abrir arquivo
+Rinter
+Todos os arquivos
+O ano mínimo é 1753
+Deseja remover todos os toques com eventos agendados
+Opções de eliminação
+Você deseja remover este toque com o evento
+Opções de eliminação
+para poder selecionar um evento
+ v1.0
+ Salvar Arquivo
+Todos os arquivos
+Novo
+Você não atribuiu um nome de arquivo
+Aleatória
+seg.
+D LMMJV S
+ ------------------------------------------
+ ------------------------------------------

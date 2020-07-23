@@ -1,0 +1,386 @@
+Archiver
+Nouveau
+Ouvert
+sauvegarder
+Garder comme
+sortir
+&Regarder
+& Panneau Jour
+Les options
+Records
+Nouveau
+Modifier
+Élimination
+Supprimer tout
+Supprimer sélectionnée
+Déplacer
+précédent
+Suivant
+Départ
+Port USB*
+Options de fichier
+Chemins d'accès aux fichiers
+Programme d'automatisation
+Exécuter au démarrage du PC
+Utilisateur
+Informations personnelles
+Utiliser manuellement
+Dispositif
+Calendrier
+Générateur de routines d'événements programmables
+Viseur
+La fenêtre
+Aidez-moi
+Configurer les commentaires
+Configurer l'idiome
+À propos de Rinter
+À propos de Rinter
+Circuit électrique
+Faire un don
+& Afficher tous les mois
+& Courant uniquement défini
+&Record
+Options de modification
+& Données modifiées
+& Appuyer sur les boutons
+&Heure
+&Type
+&Filtre
+& Entrée Int
+& Sortie Int
+& Texte d'entrée
+& Texte de sortie
+&Lundi
+&Mardi
+&Mercredi
+&Jeudi
+&Vendredi
+& Les samedis
+&Les dimanches
+& Type d'application:
+Les options opprimées sont refusées
+Les options non opprimées sont refusées
+&Appliquer
+&Sortir
+& C: marche / arrêt
+&Restaurer
+Générateur de routine
+&Liste déroulante
+& Programme déployable
+& Options modifiées
+&Heure:
+&Type:
+&Filtre:
+& Int: [Entrée]
+& Int: [Quitter]
+&JOURS
+&Lundi
+&Mardi
+&Mercredi
+&Jeudi
+&Vendredi
+& Les samedis
+&Les dimanches
+& Il n'y a aucun élément d'événement.
+& Existent actuellement
+& éléments d'événement
+& élément d'événement
+&[ENTRÉE]
+&[DÉPART]
+&Annuler
+& Créer un évènement:
+& Créer des événements:
+&Modifier
+Ne fais rien *
+Éteignez l'ordinateur
+Arrêtez et redémarrez l'ordinateur
+Remplacer l'arrêt de l'ordinateur
+Équipement à arrêter / redémarrer / abandonner
+Définissez le délai d'arrêt.
+Commentaire d'arrêt maximum, 127 caractères
+Forcer la fermeture de toutes les applications sans avertissement
+Entrez la description maximale, 127 caractères
+& Sans dialogue ...
+& Time =
+allumé.
+Heure: prévue
+Type: entrée ou sortie
+Filtre: In ou Out ou aléatoire
+Intervalle: entrée
+Intervalle: Quitter
+Jours: lundi
+Jours: mardi
+Jours: mercredi
+Jours: jeudi
+Jours: vendredi
+Jours: samedi
+Jours: dimanche
+Commentaires: Entrée
+Commentaires: Départ
+Auto: Désactiver Activer etc *
+Historique de l'itinéraire
+& Historique des fichiers défini
+&Annuler
+&Charge
+& Supprimer la sélection
+&Effacer tout
+& Utiliser un fichier
+& Utiliser le fichier
+&Accepter
+Vous souhaitez utiliser ce fichier avec Rinter
+Voulez-vous supprimer le fichier utilisé de la mémoire?
+Démarrez avec Windows automatiquement
+& Démarrer avec Windows?
+&Larme
+& Ne commence pas
+&Accepter
+Lorsque vous démarrez ou redémarrez Windows Rinter, il démarre avec Windows
+ Il y avait une erreur, pour démarrer avec Windows S.O
+Le démarrage automatique a été supprimé dans Windows S.O
+Circuit électrique
+Schémas
+&Imprimer
+&Accepter
+État graphique de la fenêtre principale
+Etat:
+&Annuler
+&Appliquer
+Fenêtre restaurée
+Fenêtre minimisée
+Fenêtre maximisée
+Personnalisez les données
+Détails du créateur de sonnerie
+Accepter
+Nom :
+Deuxième prénom :
+Le nom :
+Deuxième nom de famille :
+Adresse :
+Deuxième adresse:
+Localité :
+Pays :
+Téléphone :
+Cellulaire :
+Courrier électronique :
+Facebook :
+Commentaire général :
+Annuler
+Nettoyer
+&Accepter
+ Voulez-vous nettoyer toutes les données à l'écran?
+Les données ont été enregistrées avec succès dans la mémoire
+Fonctions système
+Fonctions système exploitables
+commentaires:
+Ne fais rien *
+Éteignez l'ordinateur
+Arrêtez et redémarrez l'ordinateur
+Remplacer l'arrêt de l'ordinateur
+Équipement à arrêter / redémarrer / abandonner
+Définissez le délai d'arrêt.
+Commentaire d'arrêt maximum, 127 caractères
+Forcer la fermeture de toutes les applications sans avertissement
+Entrez la description maximale, 127 caractères
+& Sans dialogue ...
+& Time =
+allumé.
+Annuler
+Appliquer
+Sans dialogue
+Temps:
+Imprimante par quantité
+Copiez-vous:
+-
++
+Annuler
+Envoyer des copies imprimées
+Fichiers actuels dans la mémoire du logiciel
+Y a-t-il des fichiers en mémoire que vous souhaitez faire?
+aller
+Heure
+Type
+Secondes
+Commentaire
+sortir
+Sauvegarder et quitter
+Annuler
+titre du programme
+Ajouter un nouvel événement
+Fonctions système
+Heure:
+Type :
+Intervalle:
+Filtre:
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+les samedis
+les dimanches
+Commentaire:
+commentaires:
+Annuler
+Couleur de: Pintagram
+Créer
+Modifier
+Modifier l'événement.
+Entrée
+Départ
+Seule fois
+Heure et jour
+Vous souhaitez appliquer les modifications d'événement.
+Personnaliser la langue
+Archiver
+Valeur
+Renommer
+langage
+Annuler
+Charger la langue
+Enregistrer le fichier
+Appliquer la langue
+Tableau des horaires planifiés.
+Carte de type d'entrée ou de sortie.
+Tableau des temps en quelques secondes.
+Tableau des commentaires.
+janvier
+février
+Mars
+avril
+Mai
+juin
+juillet
+août
+septembre
+Oct / Nob / Dec
+Aller au mois en cours
+Visionneuse d'événements actuellement planifiés
+aller
+Heure
+Type
+Secondes
+Commentaire
+Imprimer
+Imprimer plus
+un événement
+Ajoutez des commentaires
+Commentaire
+Ajouter
+Charge
+Annuler
+Supprimer sélectionnée
+Supprimer tout
+sauvegarder
+Voulez-vous supprimer ce commentaire de la liste?
+Voulez-vous supprimer tous les commentaires?
+Météo
+Entrez une option système
+Voir les droits de ce logiciel dans le domaine juridique.
+voir qui a participé à Rinter
+Version:
+Les informations système ne sont pas disponibles pour le moment
+. :: À propos de Rinter
+Compilé
+logiciel pensé et élevé
+Programmation
+Conception graphique
+SDI
+Structures
+Statistiques
+Analyser
+Tableau noir Ferramenta
+Ferramenta Dynamic agenda manager
+Ferramenta virtuais months
+Comparaison
+Gadgets graphiques pour API
+Entrée et sortie de fichier
+Des algorithmes
+Traduction et langues par
+Google Tradutor (c)
+Bibliothèques et têtes d'E / S
+Microsoft Corporation (c)
+Dynamisme et structuré
+.EXE
+Type de version
+utilisateurs en général
+Notant que ce programme n'est pas protégé par les lois de l'auteur ou d'autres traités internationaux, pour la reproduction ou la distribution non autorisée par ce programme ou toute partie de celui-ci sans aucune responsabilité en vertu de la loi et ne sera pas poursuivi.
+& Information système ...
+&Pétrole
+Ça veut dire
+Auteurs
+Rinter
+Aidez-nous en tant que projet
+L'avenir du logiciel dépend de vous
+com propre compte ...
+Avec des cartes de crédit
+&Collaborer
+&Pétrole
+Calendrier
+& Calendrier graphique
+& Optez pour une fiche technique
+& Sair
+Utilisez tactile manuellement
+&Lié
+& Pour un
+Détaché
+Statut: activé
+&Pétrole
+Led montrant ou le statut fait le destin
+Événement en cours d'exécution
+Un campainha joue ...
+commentaires
+Carregando ...
+Deuxième feira
+Terça-feira
+Quarta-feira
+Cinquième feira
+Sixième feira
+les samedis
+les dimanches
+JOURS
+À peine le tempo.
+Tempo total:
+Décor de saison:
+Tempo restant:
+Heure Ativar:
+Type :
+&Date
+Relogio numérique
+Relogio do sistema
+il a trouvé:
+hs
+&Pétrole
+Port de départ
+Você deve ter conhecimento avant d'apporter des modifications ici.
+& Saída 5v
+Pin 1
+Pin 2
+Pin 3
+Pin 4
+Pin 5
+Pin 6
+Pin 7
+Pin 8
+&Annuler
+&Ordinaire
+&Pétrole
+Voulez-vous enregistrer les modifications?
+ Fichier ouvert
+Rinter
+Toutes les archives
+O l'année minimum est 1753
+Vous souhaitez supprimer toutes les touches avec les événements planifiés
+Options d'élimination
+Vous souhaitez supprimer cette touche en tant qu'événement
+Options d'élimination
+pouvoir sélectionner un événement
+ v1.0
+ Enregistrer le fichier
+Toutes les archives
+Novo
+Você não attribiu um nome de arquivo
+Aléatoire
+seconde.
+D LMMJV S
+ ------------------------------------------
+ ------------------------------------------
